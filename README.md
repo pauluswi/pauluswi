@@ -9,16 +9,16 @@ Welcome to my GitHub profile! With over 20 years of experience in software engin
 - **Current Role**: Middleware & Architecture Dept Head at one of the Bank, Jakarta, Indonesia.
 - **Specializations**:
   - Core Banking Software Engineering.
-  - Middleware Development (ISO 8583 & ISO 20022).
-  - Java Spring Boot Microservices Architecture.
+  - Middleware Development.
+  - Microservices Architecture.
   - Digital Banking Platform Integration.
-  - Financial Platform Backend Solutions.
+  - Loan / Lending Platform Solutions.
 - **Freelance/Consulting**:
   - Middleware ISO 8583 Consultant.
 - **Past Projects**:
   - Migration of Core Systems to Microservices.
   - Optimizing high-volume transaction systems with low latency.
-  - Development of Elderly Health Program systems.
+  - Voluntary Development of Elderly Health Program systems.
 
 ---
 
