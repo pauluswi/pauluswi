@@ -6,7 +6,7 @@ Welcome to my GitHub profile! With over 20 years of experience in software engin
 
 ## 🚀 About Me
 
-- **Current Role**: Middleware & Architecture Dept Head at one of the Bank, Jakarta, Indonesia.
+- **Current Role**: Middleware & Architecture at one of the Bank, Jakarta, Indonesia.
 - **Specializations**:
   - Core Banking Software Engineering.
   - Middleware Development.
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! With over 20 years of experience in software engin
 ### Programming Languages:
 - **Java** (Spring Boot, Microservices)
 - Golang
-- Frontend: React.js, Typescript, TailWindCSS
+- Frontend: React, Typescript, Angular
 
 ### Cloud Platforms:
 - **AWS**
