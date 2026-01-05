@@ -1,90 +1,88 @@
-# Hi there, I'm Widodo 👋
+# Hi there, I’m Widodo (Wied) 👋
 
-Welcome to my GitHub profile! With over 20 years of experience in software engineering, I specialize in designing and developing scalable, secure, and efficient financial systems. I am passionate about using technology to solve complex challenges, particularly in the banking and financial services industry.
+Welcome to my GitHub profile.  
+I’m a **software engineer with 20+ years of hands-on experience** designing and building **scalable, secure financial systems**, mainly in the **banking and payment domain**.
+
+My background is strongly rooted in **middleware, backend engineering, and system integration**, with a focus on **high-volume transaction systems**, reliability, and clean architecture. I enjoy turning complex financial requirements into robust, production-ready solutions.
 
 ---
 
 ## 🚀 About Me
 
-- **Current Role**: Middleware & Architecture at one of the Bank, Jakarta, Indonesia.
-- **Specializations**:
-  - Core Banking Software Engineering.
-  - Middleware Development.
-  - Microservices Architecture.
-  - Digital Banking Platform Integration.
-  - Loan / Lending Platform Solutions.
-- **Freelance/Consulting**:
-  - Middleware ISO 8583 Consultant.
-- **Past Projects**:
-  - Migration of Core Systems to Microservices.
-  - Optimizing high-volume transaction systems with low latency.
-  - Voluntary Development of Elderly Health Program systems.
+- **Current Role**: Middleware & Architecture at a Bank (Jakarta, Indonesia)  
+- **Experience**: Banking & Financial Services Platforms  
+- **Working Style**: Hands-on, pragmatic, engineering-driven  
+
+### Core Focus Areas
+- Core Banking Software Engineering  
+- Middleware & Integration Services  
+- Microservices Architecture  
+- Digital Banking Platform Integration  
+- Loan / Lending Platform Solutions  
+
+### Freelance / Consulting
+- ISO 8583 Middleware Consultant  
+- Banking integration advisory (payments & switching)
 
 ---
 
 ## 🔧 Tech Stack
 
-### Programming Languages:
-- **Java** (Spring Boot, Microservices)
-- Golang
-- Frontend: React, Typescript, Angular
+### Programming & Frameworks
+- **Java** (Spring Boot, Microservices)  
+- **Golang**  
+- Frontend: React, TypeScript, Angular  
 
-### Cloud Platforms:
-- **AWS**
-- **GCP**
+### Cloud & Infrastructure
+- AWS  
+- GCP  
+- Kubernetes & Docker  
 
-### Tools & Frameworks:
-- OAuth2 Authentication
-- API Development with JSON, ISO 8583, ISO 20022
-- Kubernetes & Docker
-- Kafka, RabbitMQ
-- JPA, PostgreSQL, MongoDB, Redis
-- Maven (Preferred Build Tool)
+### Messaging & Data
+- Kafka, RabbitMQ  
+- PostgreSQL, MongoDB, Redis  
+- JPA / Hibernate  
+
+### Security & Integration
+- OAuth2 / API Security  
+- JSON, ISO 8583, ISO 20022  
+- Distributed locking & concurrency handling  
+
+### Build & Dev Tools
+- Maven (preferred)  
 
 ---
 
-## 🎨 Key Projects
+## 🎨 Selected Engineering Work
 
-### Middleware Services for Banking
-- Developed middleware to handle inbound JSON and outbound ISO 8583/20022 data.
-- Focused on scalable, secure architecture for high transaction volumes.
-- Solved race conditions in asynchronous processing using Redis distributed locks.
+### Banking Middleware Services
+- Built middleware handling **JSON ↔ ISO 8583 / ISO 20022** transformations  
+- Designed for **high-throughput and low-latency** transaction processing  
+- Solved race conditions in asynchronous flows using **Redis distributed locks**
 
-### Loan Management System
-- Designed loan installment features with fixed monthly payment dates.
-- Integrated with third-party APIs for credit scoring.
+### Loan & Lending Platform
+- Designed loan installment logic with **fixed monthly payment dates**  
+- Integrated third-party services for **credit scoring and validation**  
+- Focused on correctness, auditability, and extensibility
 
 ### Digital Wallet Backend
-- Built OAuth2-secured services for real-time balance and transaction management.
-- Integrated payment gateways like VISA and Mastercard.
+- Developed OAuth2-secured APIs for real-time balance and transaction services  
+- Integrated external payment gateways (e.g., VISA, Mastercard)  
+- Emphasized security, traceability, and resilience
 
-### Core System Migration
-- Led migration from monolithic to microservices architecture, improving scalability and fault tolerance.
-- Tuned Kubernetes deployments for better resource management and auto-scaling capabilities.
-
----
-
-## 🔍 What I’m Focusing On
-
-- Building robust financial systems.
-- Exploring blockchain and DApp development (recently advised on a blockchain gaming project).
-- Delivering workshops and mentoring the next generation of software engineers.
+### Core System Modernization
+- Migrated legacy monolithic systems to **microservices architecture**  
+- Improved scalability and fault tolerance  
+- Tuned Kubernetes deployments for better resource usage and auto-scaling
 
 ---
 
-## 🏆 Certifications
+## 🔍 Current Interests
 
-- **AWS Certified Solution Architect - Associate** (AWS ID: AWS01995091).
-- Microsoft Certified Solution Developer (MCSD) – App Builder.
-- Microsoft Certified Solution Associate (MCSA) – Web Application.
-- Microsoft Specialist – Programming in HTML5 with JavaScript and CSS3.
+- Building **reliable financial platforms** with clean architecture  
+- Exploring **blockchain & DApp development** (advisory experience)  
+- Sharing knowledge through **workshops and mentoring junior engineers**
 
 ---
 
-## 🔗 Let's Connect
-
-- **LinkedIn**: [Slamet Widodo](https://www.linkedin.com/in/pauluswi/)
-- **GitHub**: [github.com/pauluswi](https://github.com/pauluswi)
-
-Feel free to explore my repositories to see how I’m leveraging Java, Golang, and microservices for financial solutions. Let’s collaborate on meaningful projects!
-
+💡 *This profile focuses on **engineering craftsmanship**, real-world financial systems, and production-grade architecture.*
