@@ -21,8 +21,9 @@ My background is strongly rooted in **middleware, backend engineering, and syste
 - Loan / Lending Platform Solutions  
 
 ### Freelance / Consulting
-- ISO 8583 Middleware Consultant  
+- ISO 8583 and ISO 20022 Middleware Consultant  
 - Banking integration advisory (payments & switching)
+- SAP S/4HANA Integration
 
 ---
 
