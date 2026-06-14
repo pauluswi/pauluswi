@@ -1,89 +1,129 @@
-# Hi there, I’m Widodo (Wied) 👋
+# Hi there, I'm Widodo (Wied) 👋
 
-Welcome to my GitHub profile.  
-I’m a **software engineer with 20+ years of hands-on experience** designing and building **scalable, secure financial systems**, mainly in the **banking and payment domain**.
+Welcome to my GitHub profile.
 
-My background is strongly rooted in **middleware, backend engineering, and system integration**, with a focus on **high-volume transaction systems**, reliability, and clean architecture. I enjoy turning complex financial requirements into robust, production-ready solutions.
+I'm a **Software Architect and senior software engineer with 20+ years of experience** designing and delivering **enterprise software solutions**, including **6+ years in banking, payments, and fintech platforms**.
+
+My expertise lies in building **high-availability integration platforms, modernizing legacy systems, and architecting scalable financial services** that support mission-critical business operations. I enjoy transforming complex business requirements into reliable, maintainable, and production-ready solutions.
 
 ---
 
 ## 🚀 About Me
 
-- **Current Role**: Middleware & Architecture at a Bank (Jakarta, Indonesia)  
-- **Experience**: Banking & Financial Services Platforms  
-- **Working Style**: Hands-on, pragmatic, engineering-driven  
+* **Current Role:** Head of System Application Development / Software Architect at a Bank (Jakarta, Indonesia)
+* **Experience:** 20+ years in enterprise software engineering
+* **Industry Focus:** Banking, Payments, Fintech, and Enterprise Integration
+* **Leadership Style:** Hands-on, pragmatic, and engineering-driven
 
-### Core Focus Areas
-- Core Banking Software Engineering  
-- Middleware & Integration Services  
-- Microservices Architecture  
-- Digital Banking Platform Integration  
-- Loan / Lending Platform Solutions  
+### What I Do
 
-### Freelance / Consulting
-- ISO 8583 and ISO 20022 Middleware Consultant  
-- Banking integration advisory (payments & switching)
-- SAP S/4HANA Integration
+* Architect high-volume payment and integration platforms
+* Modernize legacy systems into cloud-native architectures
+* Design resilient event-driven systems using Kafka and microservices
+* Bridge business strategy with technical execution
+* Mentor engineering teams and grow architectural capabilities
 
 ---
 
-## 🔧 Tech Stack
+## 🏦 Domain Expertise
+
+* Payment Platforms & Switching
+* QRIS and Digital Payment Integration
+* Core Banking Modernization
+* Middleware & Enterprise Integration
+* Open Banking APIs
+* Merchant Lending & Loan Platforms
+* ISO 8583 and ISO 20022 Solutions
+
+---
+
+## 🔧 Technology Stack
+
+### Architecture & Engineering
+
+* Microservices Architecture
+* Event-Driven Architecture
+* Domain-Driven Design (DDD)
+* Cloud-Native Architecture
+* Clean Architecture
 
 ### Programming & Frameworks
-- **Java** (Spring Boot, Microservices)  
-- **Golang**  
-- Frontend: React, TypeScript, Angular  
+
+* **Java** (Spring Boot)
+* **Golang**
+* React
+* TypeScript
+* Angular
 
 ### Cloud & Infrastructure
-- AWS  
-- GCP  
-- Kubernetes & Docker  
+
+* AWS
+* Google Cloud Platform (GCP)
+* Kubernetes
+* Docker
 
 ### Messaging & Data
-- Kafka, RabbitMQ  
-- PostgreSQL, MongoDB, Redis  
-- JPA / Hibernate  
+
+* Kafka
+* PostgreSQL
+* MongoDB
+* Redis
+* JPA / Hibernate
 
 ### Security & Integration
-- OAuth2 / API Security  
-- JSON, ISO 8583, ISO 20022  
-- Distributed locking & concurrency handling  
 
-### Build & Dev Tools
-- Maven (preferred)  
+* OAuth2 / OpenID Connect
+* API Security
+* ISO 8583
+* ISO 20022
+* REST APIs
+* Distributed Locking & Concurrency Control
 
----
+### Build & Delivery
 
-## 🎨 Selected Engineering Work
-
-### Banking Middleware Services
-- Built middleware handling **JSON ↔ ISO 8583 / ISO 20022** transformations  
-- Designed for **high-throughput and low-latency** transaction processing  
-- Solved race conditions in asynchronous flows using **Redis distributed locks**
-
-### Loan & Lending Platform
-- Designed loan installment logic with **fixed monthly payment dates**  
-- Integrated third-party services for **credit scoring and validation**  
-- Focused on correctness, auditability, and extensibility
-
-### Digital Wallet Backend
-- Developed OAuth2-secured APIs for real-time balance and transaction services  
-- Integrated external payment gateways (e.g., VISA, Mastercard)  
-- Emphasized security, traceability, and resilience
-
-### Core System Modernization
-- Migrated legacy monolithic systems to **microservices architecture**  
-- Improved scalability and fault tolerance  
-- Tuned Kubernetes deployments for better resource usage and auto-scaling
+* Maven
+* GitHub Actions
+* CI/CD Practices
 
 ---
 
-## 🔍 Current Interests
+## 🎯 Selected Engineering Highlights
 
-- Building **reliable financial platforms** with clean architecture  
-- Exploring **blockchain & DApp development** (advisory experience)  
-- Sharing knowledge through **workshops and mentoring junior engineers**
+### High-Volume Payment Platforms
+
+* Designed and evolved payment architectures supporting **500+ TPS**
+* Improved availability and operational resilience for critical transaction services
+* Introduced event-driven services using **Kafka** to decouple dependencies and improve scalability
+
+### Banking Middleware & Integration
+
+* Built integration platforms handling **JSON ↔ ISO 8583 / ISO 20022** transformations
+* Delivered secure and reliable connectivity between banking systems and external partners
+* Implemented Redis-based distributed locking to ensure consistency in asynchronous workflows
+
+### Core Banking Modernization
+
+* Led initiatives to transform monolithic systems into **microservices-based architectures**
+* Enhanced scalability, fault tolerance, and deployment agility
+* Optimized Kubernetes environments to improve resource efficiency and operational stability
+
+### Lending & Financial Services
+
+* Designed extensible loan processing capabilities and repayment logic
+* Integrated external services for credit assessment and validation
+* Focused on auditability, correctness, and regulatory compliance
 
 ---
 
-💡 *This profile focuses on **engineering craftsmanship**, real-world financial systems, and production-grade architecture.*
+## 🌱 Current Interests
+
+* Software Architecture for Banking and Payments
+* Event-Driven Financial Systems
+* Cloud-Native Platform Engineering
+* AI-assisted Software Engineering
+* Applied AI solutions for real-world problems
+* Mentoring engineers and sharing architectural knowledge
+
+---
+
+💡 *I believe great architecture balances business outcomes, engineering excellence, and operational simplicity. This profile showcases the systems, patterns, and lessons learned from building production-grade financial platforms at scale.*
